@@ -41,6 +41,7 @@ h2 {
   background: #222;
   color: white;
   padding: 15px;
+  padding-bottom: 20px;
 }
 
 </style>
