@@ -44,7 +44,7 @@ h2 {
 }
 
 .order {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 </style>
