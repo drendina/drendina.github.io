@@ -41,6 +41,9 @@ h2 {
   background: #222;
   color: white;
   padding: 15px;
+}
+
+.order {
   padding-bottom: 20px;
 }
 
@@ -53,7 +56,7 @@ h2 {
 <div id="menu"></div>
 
 <h2>🛒 Il tuo ordine</h2>
-<div id="cart"></div>
+<div class="order" id="cart"></div>
 
 <div class="cart">
   Totale: € <span id="total">0</span>
